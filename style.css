@@ -1,0 +1,13 @@
+img{
+
+    position:fixed;
+    right:5px;
+    bottom:15px;
+}
+
+.box{
+
+    border-style:solid;
+    height:800px;
+    width:100%;
+}
